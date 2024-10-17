@@ -17,7 +17,7 @@ pip3 install requests
 
 4. Crear un archivo Python en Eclipse.
 
-5. Hacer el script.
+5. Ingresar el contenido del script.
 
 6. Ejecutar el script e interpretar el resultado. Para ejecutar el test, se recomienda utilizar External tools configurations.
 
