@@ -1,11 +1,7 @@
 "# DSS_practico_4" 
 
 
-
-
-
-### Descripción
-
+### Pasos para ejecutar los scripts
 
 1. Tener Python instalado
 Si no tienes Python instalado, puedes instalarlo utilizando los siguientes comandos:
