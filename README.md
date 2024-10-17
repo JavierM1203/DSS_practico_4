@@ -1,6 +1,3 @@
-"# DSS_practico_4" 
-
-
 ### Pasos para ejecutar los scripts
 
 1. Tener Python instalado
