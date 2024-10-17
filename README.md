@@ -13,7 +13,7 @@ El script utiliza la biblioteca requests para realizar solicitudes HTTP. Si no l
 pip3 install requests
 ```
 
-3. **Tener el código de AltoroJ funcionando con el servidor tomcat prendido. Asegúrate de tener AltoroJ ejecutándose en tu entorno.
+3. Tener el código de AltoroJ funcionando con el servidor tomcat prendido. Asegúrate de tener AltoroJ ejecutándose en tu entorno.
 
 4. Crear un archivo Python en Eclipse.
 
