@@ -26,7 +26,7 @@ Asegúrate de tener AltoroJ ejecutándose en tu entorno.
 
 5. Hacer el script 
 
-![alt text](images/xss_codigo.png)
+![alt text](imagenes/xss_codigo.png)
 
 6. ejecutar el script y interpretar el resultado 
 
@@ -34,7 +34,7 @@ Caso 1: Vulnerabilidad presente
 
 Si el script detecta la vulnerabilidad de XSS, mostrará el siguiente mensaje en la consola:
 
-![alt text](images/xss.png)
+![alt text](imagenes/xss.png)
 
 Esto indica que la vulnerabilidad aún está presente en el sistema y el código de salida será 1.
 
@@ -42,6 +42,6 @@ Caso 2: Vulnerabilidad ausente
 
 Si no se detecta la vulnerabilidad, el script mostrará este mensaje:
 
-![alt text](images/xss_exito.png)
+![alt text](imagenes/xss_exito.png)
 
 Esto significa que el sistema ha mitigado correctamente la vulnerabilidad de XSS y el código de salida será 0.
