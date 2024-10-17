@@ -1,27 +1,25 @@
 ### Pasos para ejecutar los scripts
 
-1. Tener Python instalado
+1. Tener Python instalado.
 Si no tienes Python instalado, puedes instalarlo utilizando los siguientes comandos:
 ```
 sudo apt update
 sudo apt install python3
 ```
 
-2. Instalar la biblioteca requests
+2. Instalar la biblioteca requests.
 El script utiliza la biblioteca requests para realizar solicitudes HTTP. Si no la tienes instalada, puedes hacerlo con el siguiente comando:
 ```
 pip3 install requests
 ```
 
-3. Tener el código de AltoroJ
+3. Tener el código de AltoroJ.
 
 Asegúrate de tener AltoroJ ejecutándose en tu entorno.
 
-4. Crear un archivo Python en Eclipse
+4. Crear un archivo Python en Eclipse.
 
-5. Hacer el script: 
-
-
+5. Hacer el script.
 
 6. Ejecutar el script e interpretar el resultado. Para ejecutar el test, se recomienda utilizar External tools configurations.
 
