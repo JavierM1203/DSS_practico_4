@@ -1,3 +1,7 @@
+## Introducción
+
+En este practico, se automatizaron dos pruebas de regeresión para validar la existencia de las vulnerabilidades de SQL Inyection y Cross-Site Scripting en la página de AltoroJ.
+
 ### Pasos para ejecutar los scripts
 
 1. **Tener Python instalado.**
