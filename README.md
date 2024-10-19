@@ -39,6 +39,10 @@ pip3 install requests
 
 En este script, se hace un POST request a la url de login, cargando un payload para explotar la vulnerabilidad de SQL inyection. En caso de que el login sea exitoso, la vulnerabilidad está presente y se devuelve el código de salida 1. En caso contrario, se devuelve el código de salida 0.
 
+Los datos a incluir en el payload se obtienen del archivo login.jsp, en donde se visualizan las variables _uid_ y _passw_ correspodientes al nombre de usuario y contraseña, que se enviaran al servidor para realizar el login.
+
+![alt text](imagenes/dologin.png)
+
 **Caso 1: Vulnerabilidad presente**
 
 En caso de que la vulnerabilidad esté presente, se muestra el siguiente mensaje por consola y se devuelve el código de salida 1.
